@@ -1,0 +1,6 @@
+com\microservices_app\user_service\services\UserService.class
+com\microservices_app\user_service\Repository\UserRepository.class
+com\microservices_app\user_service\UserServiceApplication.class
+com\microservices_app\user_service\Controllers\UserController.class
+com\microservices_app\user_service\Entity\User.class
+com\microservices_app\user_service\Config\KafkaProducerConfig.class
